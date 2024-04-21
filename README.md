@@ -1,6 +1,6 @@
 # Tennis Database Project (Web-Dev)
  A project done to understand linking a database to a web application.
- Utilizes JSF, Java, HTML, and SQL. 
+ Utilizes JSF, Java, HTML, SQL, and the Primefaces library. 
 
  # --------------------DETAILED INSTRUCTIONS--------------------
 
