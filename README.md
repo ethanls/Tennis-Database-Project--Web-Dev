@@ -2,7 +2,7 @@
  A project done to understand linking a database to a web application.
  Utilizes JSF, Java, HTML, and SQL. 
 
- # --------------------DETAILED INSTRUCTIONS AND THINGS TO LOOK OUT FOR--------------------
+ # --------------------DETAILED INSTRUCTIONS--------------------
 
 1. Import the project into NetBeans via your method of choice.
 2. Make sure you're using Java 11 and Glassfish (any version of Glassfish should work, I believe version 6 and above work best.)
